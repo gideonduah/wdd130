@@ -35,12 +35,12 @@ header{
     background-color: var(--accent2-color);
 }
 header img{
-    width:100 px;
+    width: 100px;
     height: auto;
 }
 /* Navigation */
 nav ul{
-    display:flex;
+    display: flex;
     justify-content:flex-end;
     align-items: center;
     list-style: none;
@@ -92,14 +92,14 @@ width: 125px;
 margin-left: 15px;
 }
 
-*/ HEADINGS */
+/* HEADINGS */
 h2{
 font-family: var(--heading-font);
 color: var(--primary-color);
 text-align: center;
 }
 
-*/ HISTORY */
+/* HISTORY */
 .history{
     display:grid;
     grid-template-columns: 1fr 180px 1fr;
@@ -122,7 +122,7 @@ text-align: center;
     object-fit: cover;
 }
 
-*/ ADVENTURES */
+/* ADVENTURES */
 .adventures{
     margin: 20px 0;
     padding: 20px;

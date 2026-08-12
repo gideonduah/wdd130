@@ -188,7 +188,7 @@ footer p{
 .contact-details{
     text-align: center;
 }
-.mapiframe{
+.map iframe{
     width: 100%;
     max-width: 450px;
     height: 250px;
@@ -198,7 +198,7 @@ footer p{
     max-width: 700px;
     margin: 2rem auto;
 }
-.contact-form-sectionform{
+.contact-form-section form{
     display: flex;
     flex-direction: column;
     gap: 1rem;

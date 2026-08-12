@@ -22,6 +22,7 @@ header, main, footer{
 width: 840px;
 margin: 0 auto;
 }
+
 h1, h2{
     font-family: var(--heading-font);
     color: var(--primary-color);
@@ -30,8 +31,12 @@ nav, p, section, article{
     margin: 16px;
     padding: 8px;
 }
-.socialmedia a{
-    text-decoration: none;
+header{
+    display: grid;
+    gold-template_columns: 120px 1fr;
+
+    text-decoration: none:
+    padding10px 0;
 }
 .hero{
     position: relative;

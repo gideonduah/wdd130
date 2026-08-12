@@ -166,8 +166,9 @@ footer p{
     display: flex;
     gap: 10px;
 }
-.social media a{
+.socialmedia a{
     padding: 0;
+    text-decoration: none;
 }
 .socialmedia img{
     width:35px;
